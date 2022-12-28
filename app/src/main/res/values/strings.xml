@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyAppTest</string>
+    <string name="loginTitle">Identifícate</string>
+    <string name="calcTitle">Ingrese 2 números a operar</string>
+    <string name="calcResul">Resultado:</string>
+    <string name="hintUser">Usuario</string>
+    <string name="hintPass">Contraseña</string>
+    <string name="btnLogin">Login</string>
+    <string name="addOp">+</string>
+    <string name="SusOp">-</string>
+    <string name="mulOp">*</string>
+    <string name="divOp">/</string>
+    <string name="loginError">Datos incorrectos</string>
+    <string name="btn_close">Cerrar App</string>
+</resources>
